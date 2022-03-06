@@ -1,0 +1,11 @@
+line-bot-sdk
+flask 
+numpy
+requests
+BeautifulSoup4
+lxml
+pandas
+Scrapy
+urllib3
+gunicorn
+twstock
